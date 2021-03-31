@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.capgemini.flightmanagement.FlightManagementApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.144 s <<< FAILURE! - in com.capgemini.flightmanagement.FlightManagementApplicationTests
+com.capgemini.flightmanagement.FlightManagementApplicationTests  Time elapsed: 0.143 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
